@@ -5,7 +5,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/vesoft-inc/nebula-go/v2 v2.5.2-0.20220110135532-7e75af58e752
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
-	gopkg.in/yaml.v2 v2.2.4
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 go 1.13
